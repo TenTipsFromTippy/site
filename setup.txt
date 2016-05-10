@@ -1,0 +1,3 @@
+open Terminal
+cd /Users/TT/Documents/swimadelphia/site
+python -m SimpleHTTPServer 8000
